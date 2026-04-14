@@ -1,0 +1,15 @@
+# CITY ZOO VISITOR GUIDE
+
+## Hours
+The zoo is open daily from 9:00 AM to 5:00 PM.
+
+## Feeding Times
+- Lions: 10:30 AM
+- Penguins: 2:00 PM
+
+## Ticket Prices
+- Adults: $15
+- Children (under 12): $8
+
+## Special Rules
+Do not feed the animals. No flash photography in the Bird House.
